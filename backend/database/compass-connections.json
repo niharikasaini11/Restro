@@ -1,0 +1,24 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "1daa9641-1cc6-4afd-a78a-945c7b0cf906",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1774113459584"
+        }
+      },
+      "favorite": {
+        "name": "cluster0.tm44j7y.mongodb.net"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://niharikasaini364_db_user@cluster0.tm44j7y.mongodb.net/?appName=Cluster0godb.net/",
+        "oidc": {}
+      }
+    }
+  ]
+}
